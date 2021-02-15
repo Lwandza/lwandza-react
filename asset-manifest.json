@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/https//Lwandza.github.io/lwandza-react/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/https//Lwandza.github.io/lwandza-react/static/js/main.3c784762.chunk.js",
+    "main.js.map": "/https//Lwandza.github.io/lwandza-react/static/js/main.3c784762.chunk.js.map",
+    "runtime-main.js": "/https//Lwandza.github.io/lwandza-react/static/js/runtime-main.f7405daa.js",
+    "runtime-main.js.map": "/https//Lwandza.github.io/lwandza-react/static/js/runtime-main.f7405daa.js.map",
+    "static/js/2.8e5cb0b8.chunk.js": "/https//Lwandza.github.io/lwandza-react/static/js/2.8e5cb0b8.chunk.js",
+    "static/js/2.8e5cb0b8.chunk.js.map": "/https//Lwandza.github.io/lwandza-react/static/js/2.8e5cb0b8.chunk.js.map",
+    "static/js/3.6bf69e14.chunk.js": "/https//Lwandza.github.io/lwandza-react/static/js/3.6bf69e14.chunk.js",
+    "static/js/3.6bf69e14.chunk.js.map": "/https//Lwandza.github.io/lwandza-react/static/js/3.6bf69e14.chunk.js.map",
+    "index.html": "/https//Lwandza.github.io/lwandza-react/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/https//Lwandza.github.io/lwandza-react/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.8e5cb0b8.chunk.js.LICENSE.txt": "/https//Lwandza.github.io/lwandza-react/static/js/2.8e5cb0b8.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/https//Lwandza.github.io/lwandza-react/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f7405daa.js",
+    "static/js/2.8e5cb0b8.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.3c784762.chunk.js"
+  ]
+}
