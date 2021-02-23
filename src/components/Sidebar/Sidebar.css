@@ -1,0 +1,32 @@
+.sidebar{
+    
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    flex: 0.2;
+    background-color: darkblue;
+    color: whitesmoke;
+    min-width: 230px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.sidebar > img{
+
+    height: 60px;
+    padding: 10px;
+    margin-right: auto;
+    object-fit: contain;
+}
+
+.sidebar > hr{
+  border: 1px solid blue;
+  width: 90%;
+  margin: 10px auto;
+}
+.sidebarTitle{
+    margin-left: 10px;
+    padding: 5px;
+    font-size: 12px;
+
+}
